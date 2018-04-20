@@ -17,5 +17,14 @@ body{
 }
 .eric {
   float: right;
-  
+  width: 400px
+}
+.ben{
+    float:  left;
+    width: 400px
+}
+den{
+    font-size: 15px;
+    font-style: italic;
+    font-family: cursive;
 }
